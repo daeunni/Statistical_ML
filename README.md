@@ -1,5 +1,14 @@
-# 20-2-ML-lecture
-# Statistical Machine Learning 🥰
-- 대학 들어와서 제일 열심히 듣는 강의! :)
-- 교수님께 칭찬도 많이 받았다 😉     
-제일 흥미있고 제일 재밌땅 ~~
+# Statistical Machine Learning(STAT424)
+2020-2
+
+## Contents👩🏻‍💻 
+1. Oversampling, Feature selection
+2. KNN
+3. Logistic Regression
+4. Decision Tree
+5. SVM
+6. Dimension Reduction
+7. Cross Validation
+8. RANSAC
+9. Clustering 
+
